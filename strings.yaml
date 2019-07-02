@@ -1,7 +1,7 @@
 branding:
   name: About Library 
-  org: The New York Times
-  orgDomain: nytimes.com
+  org: Chicago Public Media
+  orgDomain: chicagopublicmedia.org
   prettyName: About Library
   favicon: /assets/images/library.ico
 
@@ -12,7 +12,7 @@ landing:
 
 footer:
   helpText: For help contributing or to report a problem, consult <a href="https://github.com/nytimes/library">the Github Page</a>.
-  defaultEmail: test.user@nytimes.com
+  defaultEmail: webmaster@wbez.org
 
 search:
   placeholder: What do you want to know about Library?
