@@ -1,8 +1,8 @@
 branding:
-  name: About Library 
+  name: Documentation Library 
   org: Chicago Public Media
   orgDomain: chicagopublicmedia.org
-  prettyName: About Library
+  prettyName: Documentation Library
   favicon: /assets/images/library.ico
 
 landing:
@@ -11,11 +11,11 @@ landing:
   quickLink: <a href="/get-started">Get started</a>.
 
 footer:
-  helpText: For help contributing or to report a problem, consult <a href="https://github.com/nytimes/library">the Github Page</a>.
+  helpText: For help contributing or to report a problem, please contact the Web Team.
   defaultEmail: webmaster@wbez.org
 
 search:
-  placeholder: What do you want to know about Library?
+  placeholder: Search our Documentation
   results:
     none:
       suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on Github</a>.
