@@ -8,17 +8,17 @@ branding:
 landing:
   tagline: A simple documentation site, built from content in Google Docs.
   viewAll: View All Docs
-  quickLink: <a href="/get-started">Get started</a>.
+  quickLink: <a href="/how-to-use-library">Get started</a>.
 
 footer:
-  helpText: For help contributing or to report a problem, please contact the Web Team.
-  defaultEmail: webmaster@wbez.org
+        helpText: For help contributing or to report a problem, please contact the Web Team at <a href="mailtp:webteam@wbez.org">webteam@wbez.org</a>
+        defaultEmail: webteam@wbez.org
 
 search:
   placeholder: Search our Documentation
   results:
     none:
-      suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on Github</a>.
+      suggestion: Please consider adding documentation for this subject..
 
 # errors
 error:
